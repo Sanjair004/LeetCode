@@ -14,9 +14,6 @@ class Solution {
                 ans[i]=nums[indexk++];
             }
         }
-        for(int i=0;i<nums.length;i++)
-        {
-        }
         return ans;
     }
 }
